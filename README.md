@@ -1,2 +1,3 @@
-# kirby-plugins
-Plugins for Kirby CMS
+# Kirby Plugins
+
+Here are some plugins that I made. I aim to match the code quality of the Kirby codebase.
