@@ -8,7 +8,8 @@ Copy ```sitemap.php``` to ```/site/plugins/```.
 
 ## Usage
 
-Nothing required.
+Visit the sitemap at this url: http://example.com/sitemap.xml.
+There is no actual file generated.
 
 ### config.php
 
@@ -18,6 +19,8 @@ Nothing required.
 c::set('sitemap.exclude', array('error'));
 c::set('sitemap.important', array('contact'));
 ```
+
+The plugin expects an array of [**page UID**](http://getkirby.com/docs/cheatsheet/page/uid)s.
 
 ## Author
 
